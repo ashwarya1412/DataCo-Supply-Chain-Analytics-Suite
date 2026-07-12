@@ -9,7 +9,8 @@ An enterprise-grade analytics application built in Tableau Desktop evaluating lo
 ## 📊 Executive Dashboard Suite Summaries
 
 ### 1. Logistics, Fulfillment & Financial Exposure
-![Logistics and Financial Exposure Dashboard](Logistics and Financial Exposure Dashboard.png)
+<img width="1651" height="892" alt="Logistics and Financial Exposure Dashboard" src="https://github.com/user-attachments/assets/07440ef0-d556-4809-b266-cecc973fb28a" />
+
 
 * **The Carrier SLA Crisis:** Same-Day Shipping compliance sits at a critical **52%**, meaning nearly half of premium expedited shipments experience delivery variances.
 * **Product Vulnerabilities & Fraud Leakage:** Within the European sector, **Fishing** ($43,598) and **Cleats** ($31,015) are actively targeted for fraudulent activity.
@@ -19,7 +20,8 @@ An enterprise-grade analytics application built in Tableau Desktop evaluating lo
 ---
 
 ### 📦 2. Inventory & Stock Optimization
-![Inventory Optimization Dashboard](Inventory Optimization Dashboard.png)
+<img width="1652" height="887" alt="Inventory Optimization Dashboard" src="https://github.com/user-attachments/assets/ffa52c2e-1186-44f2-807d-a59e743c16dc" />
+
 
 * **Volume Drivers:** Physical warehouse velocity is led by **Cleats** with over 75K units moved. **Fishing and Cleats** maintain the highest overall profit margin profiles, anchoring stable fulfillment.
 * **Warehouse Bottlenecks:** While traditional apparel categories flow smoothly to completion, **Fan Shop inventory** is experiencing severe processing backlogs, heavily gridlocked in `PENDING` and `PENDING_PAYMENT` flags within Europe and LATAM.
@@ -28,7 +30,8 @@ An enterprise-grade analytics application built in Tableau Desktop evaluating lo
 ---
 
 ### 🌐 3. Global Supply Chain Disruption & Risk Map
-![Global Disruption Map Dashboard](Global Disruption Map Dashboard.png)
+<img width="1656" height="885" alt="Global Disruption Map Dashboard" src="https://github.com/user-attachments/assets/d4a157aa-a84d-4ddf-adb2-3b26af9aa697" />
+
 
 * **Primary Bottleneck:** **Europe** acts as the core supply chain bottleneck, stranding over **$600K in vulnerable sales** in stagnant transit states. LATAM and Pacific Asia shadow this behavior with nearly $500K each in exposed capital.
 * **The "Standard Class" Trap:** Across every global boundary evaluated, **Standard Class shipping** houses the overwhelming majority of `ON_HOLD` and `SUSPECTED_FRAUD` exceptions. Premium modes remain highly secure.
